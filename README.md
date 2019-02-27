@@ -12,4 +12,5 @@ If you to to run prediction part, you have to download `movies_metadata.csv` fro
 2. Surprise document: Matrix Factorization-based algorithms
 3. Wiki: Matrix factorization (recommender systems)
 4. Dataset: [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+5. [SVD++ paper](https://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf)
     
